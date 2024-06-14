@@ -52,9 +52,9 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost/photography'),
+    'url' => env('APP_URL', 'http://localhost/adminpanelmain'),
 
-    'asset_url' => env('ASSET_URL', 'http://localhost/photography/public'),
+    'asset_url' => env('ASSET_URL', 'http://localhost/adminpanelmain/public'),
 
     /*
     |--------------------------------------------------------------------------
